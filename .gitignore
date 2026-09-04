@@ -1,0 +1,3 @@
+git init git
+git add -A
+commit -m "Site initial"
